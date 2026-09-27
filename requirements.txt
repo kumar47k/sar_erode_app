@@ -1,0 +1,4 @@
+Flask
+gunicorn
+h5py
+numpy
